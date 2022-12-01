@@ -1,9 +1,3 @@
 [submodule "grpc_grpc"]
 	path = grpc_grpc
 	url = https://github.com/WangTingMan/grpc-grpc
-[submodule "nanopb-c"]
-	path = nanopb-c
-	url = https://github.com/WangTingMan/nanopb-c
-[submodule "boringssl"]
-	path = boringssl
-	url = https://github.com/WangTingMan/boringssl
